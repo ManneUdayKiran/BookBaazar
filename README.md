@@ -1,6 +1,7 @@
 # 📚 BookBazaar
 
 **BookBazaar** is a full-stack web application that serves as a dynamic online platform for book lovers. It offers a wide variety of book genres and allows users to browse, explore, and add new books to the collection.
+view my live website at https://bookbaazar.netlify.app/
 
 ---
 
