@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 
 // API endpoint for fetching books
-const API_BASE_URL = "http://127.0.0.1:8000"; // Adjust this based on your backend
+const API_BASE_URL = "https://bookbaazar-c8rl.onrender.com"; // Adjust this based on your backend
 
 const Books = ({ userName }) => {
     // State to hold the books, loading status, and error

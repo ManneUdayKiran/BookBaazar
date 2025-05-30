@@ -9,7 +9,7 @@ import Filter from '../components/filter.jsx';
 import SearchBar from "../components/SearchBar.jsx";
 // import selectedGenre
 
-const API_BASE_URL = "http://127.0.0.1:8000/books/";
+const API_BASE_URL = "https://bookbaazar-c8rl.onrender.com/books/";
 
 const Dashboard = () => {
     const [books, setBooks] = useState([]);
